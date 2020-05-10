@@ -1,0 +1,14 @@
+div {
+  text-align: center;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 30vw;
+    object-fit: contain;
+}
+
+ul
+{
+    list-style-type: none;
+}
